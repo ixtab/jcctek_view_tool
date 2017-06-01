@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Genera código html con información del copyrigth de mi página.}
   spec.description   = %q{Genera código html con información del copyrigth de mi app}
-  spec.homepage      = "jcctek.com."
+  spec.homepage      = "http://www.jcctek.com."
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
